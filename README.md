@@ -93,4 +93,4 @@ Once you've mastered the basics, you can continue your journey with these topics
 * **Lesson 3:** Introduction to Testing for your code's quality.
 * **Lesson 4:** The best resources for continued learning.
 
-There you go! I hope this roadmap empowers you on your journey. Shall we start with **Chapter 1, Lesson 1**?
+There you go! I hope this roadmap empowers you on your journey. 🎉
