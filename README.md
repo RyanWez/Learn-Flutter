@@ -67,6 +67,8 @@ Project: Refactor the Weather App from Week 6 to use Provider. Manage the app's 
 Month: August 2025 - Persistence & Advanced UI
 
 
+Month: August 2025
+---
 Week 8 (July 30 - Aug 5)
 Chapter 8: Local Data Persistence (SharedPreferences)
 Lesson 1: The shared_preferences package - Storing simple data (like settings or themes) on the device.
