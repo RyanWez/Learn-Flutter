@@ -103,3 +103,6 @@ class MyApp extends StatelessWidget {
 ***
 
 ကဲ အခုဆိုရင် `Icon` နဲ့ `Image` widget တွေကို ဘယ်လိုသုံးရလဲဆိုတာ ရှင်းလောက်ပြီထင်တယ် Ryan။ `Image.network` နဲ့ `Image.asset` ရဲ့ အဓိကကွာခြားချက်က ဘာဖြစ်မလဲ။ App က အင်တာနက်မရှိတဲ့အချိန်မှာတောင် ပုံတစ်ပုံကို မဖြစ်မနေပြပေးချင်ရင် ဘယ် `Image` widget အမျိုးအစားကို သုံးသင့်လဲဟင်။
+
+---
+![image](https://github.com/user-attachments/assets/0e1b89ad-de67-4ac5-994c-6ca349d3e10c)
